@@ -18,4 +18,4 @@ The medial skeleton axis and the smoothed polygon meshes were obtained for each 
 <br>
 <br>
 <b>Workflow chart | Summary of the approximations used for 3D-based measures estimation</b><br>
-Different types of measures were obtained extracting information from different shape representations. 
+Workflow summarizing the approximations used to estimate different types of measures by extracting information from different shape representations. 
