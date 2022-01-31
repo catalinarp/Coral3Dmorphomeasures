@@ -15,4 +15,4 @@ To provide a quantitative assessment of the estimated morphological variables, b
   <br>
 
 ![Figure_1-small](https://user-images.githubusercontent.com/11543453/151869282-af217ebd-9643-45c5-9eda-5315dfb60649.png)
-<b> Schematic representation | </b> 3D model rendering and skeletonization workflow from a coral specimen. Morphology of irregularly shaped organisms (from both living tissue and skeleton specimens) can be analysed using 3D scanning. Downstream processing renders three-dimensional models as either a triangulated polygon mesh or a medial axis skeleton from which variables such as curvature, branch length, width, spacing, and angle can be estimated.
+<b> Schematic representation | 3D model rendering and skeletonization workflow from a coral specimen </b><br> Morphology of irregularly shaped organisms (from both living tissue and skeleton specimens) can be analysed using 3D scanning. Downstream processing renders three-dimensional models as either a triangulated polygon mesh or a medial axis skeleton from which variables such as curvature, branch length, width, spacing, and angle can be estimated.
