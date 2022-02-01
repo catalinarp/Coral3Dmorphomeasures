@@ -4,7 +4,7 @@ This folder contains the files and scripts used to perform statistic analyses to
 <br>
 <br>
 
-![Table-1](https://user-images.githubusercontent.com/11543453/151889792-3c48ab5b-6f86-40c1-9369-9c327189a18a.png)
+![Table-1](https://user-images.githubusercontent.com/11543453/152016316-bb72d8ec-5c12-4828-abdc-1bdad563571d.png)
 
 <br>
 <b>Summary table | Outline of the quantitative morphological variables assessed from the 3D data according to their type: branch, complexity and curvature </b><br>
