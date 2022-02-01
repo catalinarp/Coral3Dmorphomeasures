@@ -1,4 +1,5 @@
 # <b>Global and average values variable assessment</b>
++ Univariate values estimation (global and average)
 + Exploratory analyses: 
   + q-q plots (ggpubr R package v0.4.0)
   + Shapiro-Wilk's test of normality (stats R package v4.1.0)
