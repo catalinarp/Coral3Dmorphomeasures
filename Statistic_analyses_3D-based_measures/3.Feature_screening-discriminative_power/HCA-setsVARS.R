@@ -26,7 +26,7 @@ library(dendextend)
 library(arsenal)    # to compare datasets 
 
 ## B) Set working directory
-setwd("C:/Users/catal/Dropbox/Research/1.ULB_PhD/Thesis/Chapter 3 - Morphometric species delimitation Acropora/Manuscript_MethodsEcolEvol2021/Analyses")
+setwd("C:/Analyses")
 
 ## C) Load the data sets
 
