@@ -19,7 +19,7 @@ library(RColorBrewer)
 library(patchwork)
 
 ## B) Set working directory
-setwd("C:/Users/catal/Dropbox/Research/1.ULB_PhD/Thesis/Chapter 3 - Morphometric species delimitation Acropora/Manuscript_MethodsEcolEvol2021/Analyses")
+setwd("C:/Analyses")
 
 ## C) Load data :
 ALLvarsTR <- as.data.frame(read_delim("CompleteDataSet/ALLvarsTR.txt",
