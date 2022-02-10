@@ -17,11 +17,11 @@ library(bestNormalize)
 library(MVN)
 
 ## B) Set working directory: 
-setwd("C:/Users/catal/Dropbox/Research/1.ULB_PhD/Thesis/Chapter 3 - Morphometric species delimitation Acropora/Manuscript_MethodsEcolEvol2021/Analyses")
+setwd("C:/Analyses")
 
 
 ## C) Upload data set:
-ALLvars <- read_csv("Data/3Dmorpho-data.csv",
+ALLvars <- read_csv("3Dmorpho-data.csv",
                     col_types = cols(`Collection year`= col_factor(levels = c("2015", "2018", "2019")),
                                      species = col_factor(levels = c("bifurcata", "cytherea", "hyacinthus")),
                                      Dataset = col_factor(levels = c("Testing", "Training"))))
