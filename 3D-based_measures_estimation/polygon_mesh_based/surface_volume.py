@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 surface_volume.py
 
@@ -11,7 +8,6 @@ and volume of a polygon mesh (the sphericity and the S/V-ratio).
 
 import vtk
 import math as m
-from ...transformations import voxelization
 
 def getSurfaceVolumeMeasures(poly_data):
 	"""
@@ -31,7 +27,7 @@ def getSurfaceVolumeMeasures(poly_data):
 	
 	# calculate surface area and volume
 	sa, v = getSurfaceVolume(poly_data)
-	
+
 	# S/V-ratio = SA/V
 	sv_ratio = sa/v
 
@@ -80,10 +76,3 @@ def getSphericity(sa, v):
 	sphere_sa_2 = (6 * v) ** (2/3)
 	sphery = sphere_sa_1 * sphere_sa_2/sa
 	return sphery
-
-
-def example():
-	pass
-
-if __name__ == '__main__':
-	example()
