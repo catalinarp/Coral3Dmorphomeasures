@@ -7,7 +7,8 @@
     + Correlation plot (psych R package v2.1.6)
   + Clustering inspection:
     + Hierarchical clustering analysis - HCA (cluster R package v2.1.2)
-    + Variable selection for Gaussian model-based clustering (clustvarsel R package v2.3.4) and principal component analysis - PCA (stats R package v4.1.0)
+    + Variable selection for Gaussian model-based clustering (clustvarsel R package v2.3.4)
+    + Principal component analysis - PCA (stats R package v4.1.0)
 + Discriminative power of 3D-based measures:
   + Selection of variables with low variance inflation factor (VIF < 10; usdm R package v1.1-18)
   + Multivariate analysis of variance - MANOVA (stats R package v4.1.0)
