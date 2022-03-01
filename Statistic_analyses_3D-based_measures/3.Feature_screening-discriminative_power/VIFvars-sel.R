@@ -2,7 +2,7 @@
 ### Select variables according to their variance inflation factor (VIF)
 ###------------------------------------------------------------------------------
 
-### Aim: to subset variables the do not present multicollinearity
+### Aim: to subset variables that do not present multicollinearity
 
 ##-------------------------------------------------------------------------------
 ## 1. Preliminary steps
