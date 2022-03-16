@@ -3,6 +3,7 @@ import numpy as np
 import math as m
 import vtk.util.numpy_support as nps
 
+
 def getCurvature(poly_data):
 	"""
 	Calculates the Gaussian (K), Mean (H), minimum curvature (k1) and maximum
@@ -19,9 +20,9 @@ def getCurvature(poly_data):
 	than over the edges as this seemed more suitable for the way polygon meshes
 	are structured within VTK.
 
-	[1] Meyer, Mark and Desbrun, Mathieu and Schroder, Peter and Barr, Alan H.
-	Discrete differential-geometry operators for triangulated 2-manifolds. 
-	Visualization and mathematics III, 2003 35-57.
+	[1] M. Meyer, M. Desbrun, P. Schroder and A.H. Barr. Discrete differential-
+	geometry operators for triangulated 2-manifolds. Visualization and 
+	mathematics III, 2003 35-57.
 
 	Args:
 		poly_data (vtk.vtkPolyData): polygon mesh
