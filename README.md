@@ -1,7 +1,7 @@
 
 # Supplementary data for assessing the discriminative potential of 3D-based measures to aid species delimitation of <i>Acropora</i> corals
 
-<b>Data and scripts from the submitted manuscript:</b> C. Ramírez-Portilla, I. Bieger, R. G. Belleman, T. Wilke, J.-F. Flot, A. H. Baird, S. Harii, F. Sinniger, J. A. Kaandorp (2022). Quantitative three-dimensional morphological analysis supports species discrimination in complex-shaped and taxonomically challenging corals .<i>Frontiers in Marine Science</i>. 
+<b>Data and scripts from the submitted manuscript:</b> C. Ramírez-Portilla, I. Bieger, R. G. Belleman, T. Wilke, J.-F. Flot, A. H. Baird, S. Harii, F. Sinniger, J. A. Kaandorp (2022). Quantitative three-dimensional morphological analysis supports species discrimination in complex-shaped and taxonomically challenging corals. <i>Frontiers in Marine Science</i>. 
 
 All in the information in this repository corresponds to the supplementary information for the manuscript. To see a detailed description per item, check the corresponding README file in each folder:
 
