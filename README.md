@@ -3,7 +3,7 @@
 
 <b>Data and scripts from the submitted manuscript:</b> C. Ramírez-Portilla, I. Bieger, R. G. Belleman, T. Wilke, J.-F. Flot, A. H. Baird, S. Harii, F. Sinniger, J. A. Kaandorp (2022). Quantitative three-dimensional morphological analysis supports species discrimination in complex-shaped and taxonomically challenging corals. <i>Frontiers in Marine Science</i>. 
 
-All in the information in this repository corresponds to the supplementary information for the manuscript. To see a detailed description per item, check the corresponding README file in each folder:
+All the information in this repository corresponds to the supplementary information for the manuscript. To see a detailed description per item, check the corresponding README file in each folder:
 
 &ensp;&ensp;&ensp;<b>3D-based_measures_estimation/</b><br>
 After 3D models were rendered and processed, meshes were then exported as triangulated mesh files (either .stl or .obj) for downstream analyses derived either from triangulated polygon meshes, medial axis skeleton graphs or a combination of both.
